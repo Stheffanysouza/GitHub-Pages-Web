@@ -1,0 +1,61 @@
+.button{
+
+    display: inline-block;
+background-color: hsl(0, 0%, 95%);
+color: #fdfdfd;
+padding: 5px 10px;
+border-radius: 5px;
+font-size: 16px;
+font-weight: 600;
+}
+
+.button{
+    background-color: #025bff;
+}
+
+label {
+    font-weight: bold;
+}
+
+.botao{
+
+    display: inline-block;
+background-color: hsl(0, 0%, 95%);
+color: #fdfdfd;
+padding: 5px 10px;
+border-radius: 5px;
+font-size: 16px;
+font-weight: 600;
+}
+
+.botao{
+    background-color: #d40101;
+}
+
+h1{
+    text-align: center;
+}
+
+fieldset{
+    display: inline-block;
+    background-color: aliceblue;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: 600;
+    text-align: left
+}
+
+form{
+    text-align: center;
+    
+}
+
+legend {
+    text-align: center;
+
+}
+
+body {
+    background-color: rgb(210, 219, 226);
+}

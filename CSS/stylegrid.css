@@ -1,0 +1,18 @@
+.container{
+    border: 1px solid rgb(91, 104, 129);
+    box-shadow: (10px 5px 10px rgb(91, 104, 128));
+    text-align: center;
+}
+
+.col{
+    border: 1px solid rgb(91, 104, 129);
+    filter: drop-shadow(10px 5px 10px rgb(91, 104, 129));
+}
+
+body {
+    background-color: rgb(210, 219, 226);
+}
+
+.centro{
+    text-align: center;
+}
